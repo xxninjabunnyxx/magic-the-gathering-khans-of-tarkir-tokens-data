@@ -1,0 +1,125 @@
+---
+object: card
+id: 71496671-f7ba-4014-a895-d70a27979db7
+oracle_id: 13a3ac6f-6558-4fb2-99f4-cf7a83c298ad
+multiverse_ids: []
+tcgplayer_id: 93326
+name: Vampire
+lang: en
+released_at: '2014-09-26'
+uri: https://api.scryfall.com/cards/71496671-f7ba-4014-a895-d70a27979db7
+scryfall_uri: https://scryfall.com/card/tktk/5/vampire?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/1/71496671-f7ba-4014-a895-d70a27979db7.jpg?1562639857
+  normal: https://cards.scryfall.io/normal/front/7/1/71496671-f7ba-4014-a895-d70a27979db7.jpg?1562639857
+  large: https://cards.scryfall.io/large/front/7/1/71496671-f7ba-4014-a895-d70a27979db7.jpg?1562639857
+  png: https://cards.scryfall.io/png/front/7/1/71496671-f7ba-4014-a895-d70a27979db7.png?1562639857
+  art_crop: https://cards.scryfall.io/art_crop/front/7/1/71496671-f7ba-4014-a895-d70a27979db7.jpg?1562639857
+  border_crop: https://cards.scryfall.io/border_crop/front/7/1/71496671-f7ba-4014-a895-d70a27979db7.jpg?1562639857
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Vampire
+oracle_text: Flying
+power: '2'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+all_parts:
+- object: related_card
+  id: 71496671-f7ba-4014-a895-d70a27979db7
+  component: token
+  name: Vampire
+  type_line: Token Creature — Vampire
+  uri: https://api.scryfall.com/cards/71496671-f7ba-4014-a895-d70a27979db7
+- object: related_card
+  id: da1a9643-34d6-4b4b-b896-2d4626eca40a
+  component: combo_piece
+  name: Sorin, Solemn Visitor
+  type_line: Legendary Planeswalker — Sorin
+  uri: https://api.scryfall.com/cards/da1a9643-34d6-4b4b-b896-2d4626eca40a
+- object: related_card
+  id: e71df56a-c27f-4983-a2c7-c2412a0345b0
+  component: combo_piece
+  name: Bloodline Keeper // Lord of Lineage
+  type_line: Creature — Vampire // Creature — Vampire
+  uri: https://api.scryfall.com/cards/e71df56a-c27f-4983-a2c7-c2412a0345b0
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 703ad254-4167-46a7-be4f-a0b86247a42b
+set: tktk
+set_name: Khans of Tarkir Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/703ad254-4167-46a7-be4f-a0b86247a42b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atktk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tktk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/71496671-f7ba-4014-a895-d70a27979db7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A13a3ac6f-6558-4fb2-99f4-cf7a83c298ad&unique=prints
+collector_number: '5'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Cynthia Sheppard
+artist_ids:
+- 9dfbdd58-65e6-40cf-951a-80e141061939
+illustration_id: c54e5678-66e7-47a5-a985-1dc7f18490ee
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '2.77'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Vampire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Vampire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Vampire
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/93326?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vampire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vampire&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

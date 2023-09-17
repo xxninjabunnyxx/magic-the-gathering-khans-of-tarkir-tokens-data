@@ -1,0 +1,18 @@
+---
+object: set
+id: 703ad254-4167-46a7-be4f-a0b86247a42b
+code: tktk
+name: Khans of Tarkir Tokens
+uri: https://api.scryfall.com/sets/703ad254-4167-46a7-be4f-a0b86247a42b
+scryfall_uri: https://scryfall.com/sets/tktk
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atktk&unique=prints
+released_at: '2014-09-26'
+set_type: token
+card_count: 13
+parent_set_code: ktk
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: ktk
+block: Khans of Tarkir
+icon_svg_uri: https://svgs.scryfall.io/sets/ktk.svg?1694404800
